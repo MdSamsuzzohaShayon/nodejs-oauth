@@ -8,3 +8,9 @@
 ```npm install passport```
 because we will oauth using google [official docs](http://www.passportjs.org/packages/passport-google-oauth20/)
 ```npm install passport-google-oauth20```
+
+## Google developer console
+
+[official docs](https://console.cloud.google.com/) [api overview](https://console.cloud.google.com/apis/dashboard?project=oauth-nodejs-234321&folder=)
+Create a new project from there 
+![Create project](/img/project.PNG)
