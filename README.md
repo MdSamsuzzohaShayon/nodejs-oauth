@@ -12,5 +12,19 @@ because we will oauth using google [official docs](http://www.passportjs.org/pac
 ## Google developer console
 
 [official docs](https://console.cloud.google.com/) [api overview](https://console.cloud.google.com/apis/dashboard?project=oauth-nodejs-234321&folder=)
-Create a new project from there 
+Create a new project from there and enable api and services 
 ![Create project](/img/project.PNG)
+ - select google+ api and enable 
+ - To use this API, Click 'Create credentials' to get started.
+ - Which API are you using? select google+ from drop down
+ - Where will you be calling the API from? webserver node js
+ - What data will you be accessing? select user data -> 
+ - Create an OAuth 2.0 client ID - name anything 
+ - Authorised JavaScript origins -> ```http://localhost:3000``` give localhost here
+ - Authorised redirect URIs -> ```http://localhost:3000/something``` 
+ - setup conset screen -> set application name and logo and save
+ - credentials page refresh
+ - create OAuth client ID
+ ![od letter](/img/project2.PNG)
+ ![click in project name](/img/project3.PNG)
+ - copy client ID, secret and use it to setup google strategy
