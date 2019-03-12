@@ -4,7 +4,8 @@
 [github repository](https://github.com/iamshaunjp/oauth-playlist/tree/lesson-4)
 
 ## project outline
- ![Project flow](/img/sc1.PNG)
+
+![project flow](/img/sc1.PNG)
 
  ![Project flow two](/img/sc2.PNG)
 
