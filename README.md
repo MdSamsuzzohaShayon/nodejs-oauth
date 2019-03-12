@@ -25,6 +25,9 @@ Create a new project from there and enable api and services
  - setup conset screen -> set application name and logo and save
  - credentials page refresh
  - create OAuth client ID
- ![od letter](/img/project2.PNG)
- ![click in project name](/img/project3.PNG)
+
+ ![od letter](/img/credentials.PNG)
+
+ ![click in project name](/img/client.PNG)
+
  - copy client ID, secret and use it to setup google strategy
