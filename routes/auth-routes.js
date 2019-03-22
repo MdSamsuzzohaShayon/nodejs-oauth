@@ -27,7 +27,7 @@ router.get('/google', passport.authenticate('google', {
 
 
 //CALLBACK ROUTE FOR GOOGLE TO REDIRECT TO
-router.get('/google/redirect', (req, res, next) => {
+router.get('/google/redirect', passport.authenticate('google') , (req, res, next) => {
     res.send("You reach a call back uri");
 });
 

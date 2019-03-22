@@ -11,5 +11,7 @@ passport.use(
         clientSecret: keys.google.clientSecret
     }, ()=>{
         //PASSPORT CALLBACK FUNCTION
+        // WHEN WE ALLOW WITH GOOGLE THIS FUNCTION FILL BE CALLED
+        console.log('Passport callback function');
     })
 )

@@ -43,3 +43,8 @@ Create a new project from there and enable api and services
  - copy client ID, secret and use it to setup google strategy
  - We need to secure our client ID and client secret otherwise people can use that in there won project
  - Authorised redirect URIs -> ```http://localhost:3000/auth/google/redirect``` -> save
+
+ Updated digram
+
+ ![Updated digram](/img/sc3.png)
+ 
