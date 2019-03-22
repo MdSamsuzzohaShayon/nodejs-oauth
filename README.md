@@ -6,9 +6,12 @@
 ## project outline
 
  How intract with google
- ![project flow](img/sc1.PNG)
+
+![project flow](/img/sc1.png)
+
  How work with client
- ![Project flow two](img/sc2.PNG)
+
+![Project flow two](/img/sc2.png)
 
 ## Passport
 
