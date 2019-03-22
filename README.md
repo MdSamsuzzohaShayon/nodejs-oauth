@@ -5,9 +5,10 @@
 
 ## project outline
 
-![project flow](/img/sc1.PNG)
-
- ![Project flow two](/img/sc2.PNG)
+ How intract with google
+ ![project flow](img/sc1.PNG)
+ How work with client
+ ![Project flow two](img/sc2.PNG)
 
 ## Passport
 
